@@ -1,14 +1,14 @@
 export const NewsData = [
   {
     title: "CNN TÜRK",
-    URL: "https://www.youtube.com/live/X_EWYemclKA?feature=share",
+    URL: "https://www.youtube.com/watch?v=X_EWYemclKA",
   },
   {
     title: "HABERTÜRK",
-    URL: "https://www.youtube.com/live/SqHIO2zhxbA?feature=share",
+    URL: "https://www.youtube.com/live/SqHIO2zhxbA",
   },
   {
     title: "TRT HABER",
-    URL: "https://www.youtube.com/live/-Lrxv1_i3qc?feature=share",
+    URL: "https://www.youtube.com/live/-Lrxv1_i3qc",
   },
 ];
